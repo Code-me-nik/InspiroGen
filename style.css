@@ -1,0 +1,20 @@
+section {
+  width: 350px;
+  height: 200px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  -webkit-box-shadow: 10px 9px 37px 10px rgba(62, 66, 66, 0.24);
+  -moz-box-shadow: 10px 9px 37px 10px rgba(62, 66, 66, 0.24);
+  box-shadow: 10px 9px 37px 10px rgba(62, 66, 66, 0.24);
+  border-radius:10px;
+}
+
+.quotediv {
+  width: 80% ;
+  height: 80% ;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding:10px;
+}
